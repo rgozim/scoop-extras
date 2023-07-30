@@ -1,12 +1,12 @@
 {
-    "version": "4.6.1",
+    "version": "4.6.2",
     "description": "An integrated writing environment for creating LaTeX documents.",
     "homepage": "https://www.texstudio.org",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/texstudio-org/texstudio/releases/download/4.6.1/texstudio-4.6.1-win-portable-qt6.zip",
-            "hash": "77ba2a5f8861958e57d936035993cfbe7107380aded3ba264bc7b7ddf59c32e7"
+            "url": "https://github.com/texstudio-org/texstudio/releases/download/4.6.2/texstudio-4.6.2-win-portable-qt6.zip",
+            "hash": "7596c982d074e2b4df5b4e0a2d8de91fa86534ef592ef8e0d917ded848cf5521"
         }
     },
     "bin": "texstudio.exe",

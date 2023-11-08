@@ -1,10 +1,10 @@
 {
-    "version": "0.4.3",
+    "version": "0.4.2",
     "description": "A Windows software package providing an interface similar to a Unix pty-master for communicating with Windows console programs",
     "homepage": "https://github.com/rprichard/winpty",
     "license": "MIT",
-    "url": "https://github.com/rprichard/winpty/releases/download/0.4.3/winpty-0.4.3-msvc2015.zip",
-    "hash": "35a48ece2ff4acdcbc8299d4920de53eb86b1fb41e64d2fe5ae7898931bcee89",
+    "url": "https://github.com/rprichard/winpty/releases/download/0.4.2/winpty-0.4.2-msvc2015.zip",
+    "hash": "b465f2584ff394b3fe27c01aa1dcfc679583c1ee951d0e83de3f859d8b8305b8",
     "architecture": {
         "64bit": {
             "bin": "x64\\bin\\winpty-agent.exe"

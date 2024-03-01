@@ -1,12 +1,12 @@
 {
-    "version": "0.4.2",
+    "version": "0.5.0",
     "homepage": "https://github.com/pd4d10/debugtron",
     "description": "An app to debug in-production Electron-based apps.",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/pd4d10/debugtron/releases/download/v0.4.2/Debugtron-win32-x64-0.4.2.zip",
-            "hash": "6a0b078c329709b6c5b2f879603d8a75940e8e1f7434b52b0c761ff961fe2603"
+            "url": "https://github.com/pd4d10/debugtron/releases/download/v0.5.0/Debugtron-win32-x64-0.5.0.zip",
+            "hash": "9145a1e443f5ff368b2e08ffca6c2f1bdac0e84b80ed2c23255492bae47472f7"
         }
     },
     "shortcuts": [
